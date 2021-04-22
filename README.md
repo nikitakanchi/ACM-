@@ -7,5 +7,5 @@ LEARNING:
 Boostrap tutorials, GitHub public repositiries
 
 NOTE:
-Parts of the code I have directly incorporated with minimal understanding from various sources on google, Bootstrap and GitHub.
+Parts of the code I have incorporated with vague understanding from sources on google, Bootstrap and GitHub.
 
