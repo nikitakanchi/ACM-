@@ -11,7 +11,7 @@ LEARNING:
 Bootstrap tutorials, GitHub, Youtube
 
 NOTE:
-Parts of the code have been incorporated with vagues understanding from sources on Google, Bootstrap and GitHub.
+Parts of the code have been incorporated with vague understanding from sources on Google, Bootstrap and GitHub.
 
 APP-DEV (FLUTTER TASK)
 
