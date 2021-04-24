@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1aQyFYzYasmSc0Dqxq07c1mbC5aKymnAA?usp=sha
 FRONT-END TASK:
 
 LEARNING:
-Bootstrap tutorials, GitHub, Youtube
+Bootstrap tutorials, GitHub, YouTube
 
 NOTE:
 Parts of the code have been incorporated with vague understanding from sources on Google, Bootstrap and GitHub.
